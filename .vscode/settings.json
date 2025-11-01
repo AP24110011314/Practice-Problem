@@ -2,6 +2,8 @@
     "files.associations": {
         "rotatematrix.C": "cpp",
         "multiplicationof matrix.C": "cpp",
-        "multiplicationofmatrix.C": "cpp"
+        "multiplicationofmatrix.C": "cpp",
+        "Waveformofmatrix.C": "cpp",
+        "spiralmatrix.C": "cpp"
     }
 }
